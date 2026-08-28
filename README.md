@@ -1,7 +1,3 @@
-<!-- =========================================================
-     ROSHAN MERUGU - GITHUB PROFILE README
-     ========================================================= -->
-
 <h1 align="center">Hi 👋, I'm Roshan Merugu</h1>
 
 <p align="center">
