@@ -30,6 +30,5 @@ I'm currently looking for opportunities to start my career as a **Full Stack Dev
 ![](https://github-contributor-stats.vercel.app/api?username=Roshan-Merugu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Roshan-Merugu&icon=8&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
