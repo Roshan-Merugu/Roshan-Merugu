@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## Hi I am Roshan Merugu
 
 I'm a **B.Tech Computer Science graduate** who enjoys building websites and applications. I like learning new technologies by creating projects and gaining hands-on experience in **frontend, backend, and full-stack development**.
 
