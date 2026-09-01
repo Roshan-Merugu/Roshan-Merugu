@@ -23,12 +23,4 @@ I'm currently looking for opportunities to start my career as a **Full Stack Dev
 ![](https://streak-stats.demolab.com/?user=Roshan-Merugu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshan-Merugu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Roshan-Merugu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Roshan-Merugu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
